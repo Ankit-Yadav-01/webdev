@@ -1,0 +1,83 @@
+<!-- image tags created are just to show that circles are for images , will be used in next task -->
+<html lang="en">
+<head>
+<link rel="stylesheet" href="css2.css">
+
+<meta name="viewport" content="width=device-width">
+<title >Leaderboard</title>
+</head>
+<body>
+    <div class= "upper">
+        <div class="navbar">
+            Leaderboard
+        </div>
+        <div class="back">
+            <span class="upper2">
+
+ 
+
+                <span class="dot">
+                    <div class="dot4"><div class="rank">2</div></div>
+                    <div class="rect1"><div class="rank23">Jeremy-672</div></div>
+                    <!-- <span><img class="circle" ></img></span>ii -->
+                </span>
+                <span class="dot2">
+                    <div class="dot5"><div class="rank">1</div></div>
+                    <div class="rect2"><div id="rank1" class="rank1">Amanda-764</div></div>
+                    <!-- <span><img class="circle2"></img></span> -->
+                </span>
+                <span class="dot3">
+                    <div class="dot6"><div class="rank">3</div></div>
+                    <div class="rect3"><div class="rank23">Jefferey-542</div></div>
+                    <!-- <span><img class="circle"></img></span> -->
+                </span>
+            </span>
+
+
+            <span class="back">
+            <div class="rect4">
+                <span class="rank2">4</span>
+                <span><img class="dot7"></span>
+                <span class="name">Joe</span>
+                <span class="points">445</span>
+
+            </div>
+            
+                <div class="rect4">
+                    <span class="rank2">5</span>
+                    <span><img class="dot7"></span>
+                    <span class="name">Jenny</span>
+                    <span class="points">438</span>
+    
+            </div>
+
+                <div class="rect4">
+                <span class="rank2">6</span>
+                <span><img class="dot7"></span>
+                <span class="name">Josh</span>
+                <span class="points">432</span>
+    
+            </div>
+
+            <div class="rect4">
+                <span class="rank2">7</span>
+                <span><img class="dot7"></span>
+                <span class="name">Stella</span>
+                <span class="points">321</span>
+    
+            </div>
+
+            <div class="rect4">
+                <span class="rank2">8</span>
+                <span><img class="dot7"></span>
+                <span class="name">Sally</span>
+                <span class="points">300</span>
+    
+            </div>
+            
+            </span>
+        </div>
+    </div>
+
+</body>
+</html>
